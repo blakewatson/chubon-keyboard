@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttons</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<string>[OPTION+SPACE]</string>
+			<key>image</key>
+			<string>alfred.png</string>
+			<key>text</key>
+			<string>Alfred</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[OVERLAY:keyboard]</string>
+			<key>text</key>
+			<string>Keyboard</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[CONTROLPAD:arrowpad]</string>
+			<key>text</key>
+			<string>ArrowPad</string>
+			<key>image</key>
+			<string>tab-arrowpad.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>
