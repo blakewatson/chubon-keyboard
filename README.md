@@ -76,7 +76,7 @@ More extras may come.
 
 ## Compatibility
 
-The Keyboard panel should work with Windows and Linux PCs, though I haven’t tested it. The ArrowPad was designed for Mac as the text selection functions make use of the Command key. That said, you could use HippoRemote's built-in profile editor to change the key commands. Note that you need [HippoRemote Pro][] (as opposed to LITE) in order to use profiles.
+This profile was designed for Mac. The Keyboard panel should also work with Windows and Linux PCs, though I haven’t tested it. The ArrowPad mainly works with Mac, as the text selection functions make use of the Command key. That said, you could use HippoRemote's built-in profile editor to change the key commands. Note that you need [HippoRemote Pro][] (as opposed to LITE) in order to use profiles.
 
 [HippoRemote Pro]: http://itunes.apple.com/us/app/hipporemote-pro-wireless-keyboard/id320157370?mt=8&ign-mpt=uo%3D6
 
